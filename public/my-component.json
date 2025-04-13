@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "canon Digital Camera",
+      "description": "Ultra HD Smart Camera with stunning 4K display .",
+      "currentBidPrice": 950,
+      "timeLeft": "2h 15m",
+      "bidsCount": 19,
+      "image": "https://i.ibb.co.com/KkXJHh7/Bid1-min.png"
+    },
+    {
+      "id": 2,
+      "title": "Electric Guitar",
+      "description": "This guitar is for making music at it's best.",
+      "currentBidPrice": 1450,
+      "timeLeft": "4h 30m",
+      "bidsCount": 34,
+      "image": "https://i.ibb.co.com/3mjZZ6Gw/Bid2-min.png"
+    },
+    {
+      "id": 3,
+      "title": "Apple Mackbook pro",
+      "description": "Mackbook pro is for high performance",
+      "currentBidPrice": 875,
+      "timeLeft": "1d 2h",
+      "bidsCount": 11,
+      "image": "https://i.ibb.co.com/qMQ47j2c/Bid3-min.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex watch",
+      "description": "Rolex Watch is for making people smart.",
+      "currentBidPrice": 1299,
+      "timeLeft": "6h 45m",
+      "bidsCount": 22,
+      "image": "https://i.ibb.co.com/wZmhyx7F/Bid4-min.png"
+    },
+    {
+      "id": 5,
+      "title": "Third Edition 'The great sally'",
+      "description": "Buy purchase this book one can change the world.",
+      "currentBidPrice": 1120,
+      "timeLeft": "8h 50m",
+      "bidsCount": 28,
+      "image": "https://i.ibb.co.com/Y4ktt2Dd/Bid6-min.png"
+    },
+    {
+      "id": 6,
+      "title": "Wood Chair,2025 Edition",
+      "description": "This chair is hardy & durable.",
+      "currentBidPrice": 380,
+      "timeLeft": "3d 1h",
+      "bidsCount": 14,
+      "image": "https://i.ibb.co.com/Q3W182QT/Bid5-min.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy original Screen Print",
+      "description": "It is for decorate your house..",
+      "currentBidPrice": 650,
+      "timeLeft": "12h 20m",
+      "bidsCount": 47,
+      "image": "https://i.ibb.co.com/spbrCj5P/Bid7-min.png"
+    }
+  ]
+  
